@@ -7,6 +7,7 @@ class AboutPage extends React.Component {
       <div>
         <h2>About Us : we are hack your future people</h2>
         <Link to="/users">all Users</Link>
+        <Link to="/countdown">countdown</Link>
       </div>
     );
   }
